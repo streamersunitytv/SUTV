@@ -2339,6 +2339,46 @@ body {
 .cid-qMxiGVNQYH .team-item .item-caption {
   background: #efefef;
 }
+.cid-qMxZtaVMjN {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qMxZtaVMjN .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qMxZtaVMjN .media-row {
+  display: flex;
+  justify-content: center;
+}
+.cid-qMxZtaVMjN .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-qMxZtaVMjN .team-item .item-image img {
+  width: 100%;
+}
+.cid-qMxZtaVMjN .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-qMxZtaVMjN .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-qMxZtaVMjN .team-item .item-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-qMxZtaVMjN .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-qMxZtaVMjN .team-item .item-caption {
+  background: #efefef;
+}
+.cid-qMxZtaVMjN .item-role P {
+  text-align: right;
+}
 .cid-qMxqWGwTSl {
   padding-top: 60px;
   padding-bottom: 60px;
