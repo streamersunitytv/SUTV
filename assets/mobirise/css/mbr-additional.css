@@ -2431,7 +2431,7 @@ body {
 }
 .cid-qMxIqroMG0 .timeline-text-content {
   padding: 2rem 2.5rem;
-  background: #ffffff;
+  background: #767676;
   margin-left: 2rem;
 }
 .cid-qMxIqroMG0 .timeline-text-content p {
@@ -2442,7 +2442,7 @@ body {
 }
 .cid-qMxIqroMG0 .time-line-date-content p {
   padding: 2rem 2.5rem;
-  background: #ffffff;
+  background: #767676;
   float: right;
 }
 .cid-qMxIqroMG0 .timeline-element {
@@ -2491,7 +2491,7 @@ body {
   border-radius: 50%;
   font-size: 30px;
   display: inline-block;
-  background-color: #ffffff;
+  background-color: #767676;
   top: 20px;
   margin-left: -10px;
 }
@@ -2501,7 +2501,7 @@ body {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #ffffff;
+  background-color: #767676;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
@@ -2527,6 +2527,15 @@ body {
   .cid-qMxIqroMG0 .reverse .timeline-text-content {
     margin-right: 0 !important;
   }
+}
+.cid-qMxIqroMG0 .mbr-timeline-date {
+  color: #ffffff;
+}
+.cid-qMxIqroMG0 .mbr-timeline-text {
+  color: #ffffff;
+}
+.cid-qMxIqroMG0 .mbr-timeline-title {
+  color: #149dcc;
 }
 .cid-qMOHEENKEp {
   padding-top: 90px;
